@@ -1,5 +1,8 @@
 # Distributed mailbox - node-1 front end
 
+Storage/replication implementation and exact node-2/node-3 commands are in
+[STORAGE.md](STORAGE.md). Start both storage services before testing mail.
+
 This folder contains the front-end portion of CS 415 Assignment 2. It uses
 only the Python 3.13 standard library.
 
